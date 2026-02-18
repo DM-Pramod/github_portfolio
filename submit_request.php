@@ -1,4 +1,4 @@
-<?php // Code for thanku note.
+<?php // Code for cdachadc  ote.
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $name = htmlspecialchars($_POST["Name"]);
     $email = htmlspecialchars($_POST["Email"]);
